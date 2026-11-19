@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=120&section=header" />
-  <h1>sudo-Tiz — The Immutable Zero</h1>
+  <h1>The Immutable Zero</h1>
   <p>Systems & DevSecOps · Arch Linux · Hyprland · Go · Python · Ansible</p>
   <p>
     <img src="https://img.shields.io/badge/Arch_Linux-black?logo=archlinux&logoColor=white" />
