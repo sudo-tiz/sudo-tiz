@@ -43,6 +43,7 @@ Cyber-security background; Go, Python and shell when the tool doesn't exist yet.
 | | |
 |---|---|
 | [Duper](https://github.com/sudo-Tiz/Duper) | Lost your phone? Send it "duper" — Android tracker over SMS, no internet. Kotlin, on F-Droid |
+| [WattLibre](https://github.com/sudo-Tiz/WattLibre) | Local Bluetooth control for AFERIY, FOSSiBOT and SYDPOWER power stations |
 | [dns-tester-go](https://github.com/sudo-Tiz/dns-tester-go) | DNS testing tool for UDP, TCP, DoT, DoH and DoQ |
 | [asus-numpad](https://github.com/sudo-Tiz/asus-numpad) | Lightweight Go driver for Asus touchpad-integrated numpads |
 | [fridapk](https://github.com/sudo-Tiz/fridapk) | Inject Frida Gadget into Android APKs, no root |
