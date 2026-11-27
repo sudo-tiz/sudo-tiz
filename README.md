@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/🇫🇷-France-0055A4" alt="France" />
   </p>
 </div>
 
