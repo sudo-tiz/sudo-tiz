@@ -1,27 +1,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=120&section=header" />
   <h1>The Immutable Zero</h1>
-  <p>Systems & DevSecOps · Arch Linux · Hyprland · Go · Python · Ansible</p>
+  <p>Plain Tiz was taken. I escalated.</p>
   <p>
     <img src="https://img.shields.io/badge/Arch_Linux-black?logo=archlinux&logoColor=white" />
     <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/🇫🇷-France-0055A4" alt="France" />
   </p>
 </div>
-
-## About
-
-Systems & DevSecOps — building infrastructure that is automated,
-observable and secure by default.
-
-DNS & NTP, CI/CD, observability, infrastructure as code on a Linux base.
-Cyber-security background; Go, Python and shell when the tool doesn't exist yet.
 
 ## Self-hosting
 
@@ -47,8 +39,3 @@ Cyber-security background; Go, Python and shell when the tool doesn't exist yet.
 | [dns-tester-go](https://github.com/sudo-Tiz/dns-tester-go) | DNS testing tool for UDP, TCP, DoT, DoH and DoQ |
 | [asus-numpad](https://github.com/sudo-Tiz/asus-numpad) | Lightweight Go driver for Asus touchpad-integrated numpads |
 | [fridapk](https://github.com/sudo-Tiz/fridapk) | Inject Frida Gadget into Android APKs, no root |
-
-## Contributions
-
-- [mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) — merged roles & services: Lidarr, Bazarr, Jellyseerr, FlareSolverr, Endlessh-go, LanguageTool, plus ansible-role-loki/-nextcloud/-grafana/-qbittorrent fixes
-- [Tsumiki](https://github.com/rubiin/Tsumiki) (Python) · [Ashell](https://github.com/MalpenZibo/ashell) (Rust)
